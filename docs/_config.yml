@@ -30,7 +30,7 @@ twitter_username: celadonf_
 github_username:  LiZijing0929
 
 #Build settings
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
